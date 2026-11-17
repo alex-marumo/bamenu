@@ -1,6 +1,6 @@
 # bamenu
 
-A terminal UI for browsing BlackArch tools by category. Pick a category on the left, browse its tools on the right, and install with one key.
+Got tired of having to browse blackarch tools one-by-one, so heres a terminal UI for browsing BlackArch tools by category. Pick a category on the left, browse its tools on the right, and install with one key.
 
 ## Requirements
 
@@ -24,12 +24,12 @@ sudo pacman -S expac
 
 Run `bamenu` from any directory.
 
-| Key | Action |
-|-----|--------|
-| Up / Down | Move through the list |
-| Tab | Switch between the category and tool panes |
-| i | Install the highlighted tool (`sudo pacman -S`) |
-| q | Quit |
+| Key       | Action                                          |
+| --------- | ----------------------------------------------- |
+| Up / Down | Move through the list                           |
+| Tab       | Switch between the category and tool panes      |
+| i         | Install the highlighted tool (`sudo pacman -S`) |
+| q         | Quit                                            |
 
 ## How it works
 
