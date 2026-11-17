@@ -1,4 +1,4 @@
-# bamenu
+# blackarch-menu
 
 Got tired of having to browse blackarch tools one-by-one, so heres a terminal UI for browsing BlackArch tools by category. Pick a category on the left, browse its tools on the right, and install with one key.
 
